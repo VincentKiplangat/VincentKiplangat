@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 **Major Languages and Tools:**  
 | Jupyter | Python | SQL | R | Julia |
 |---------|--------|-----|---|-------|
-| <img src="MultisimNI.png" alt="MultisimNI" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="SQL" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" alt="R" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/julia/julia.png" alt="Julia" height="40"> |
+| <img src="jupyter.jpg" alt="jupyter" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="SQL" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" alt="R" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/julia/julia.png" alt="Julia" height="40"> |
 
 
 
