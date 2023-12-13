@@ -1,4 +1,4 @@
-## Hi there 👋. I'm Vincent Kiplangat, 
+# Hi there 👋. I'm Vincent Kiplangat, 
 ## Electronic and   Computer Technologists.
 #### 
 #### I'm a dedicated Data Scientist passionate about uncovering insights from complex datasets. I'm here to share my expertise from data analysis to machine learning. Whether you're a data enthusiast, a business owner, or simply curious, I've got you covered. Let's dive into the world of data science together!
@@ -18,13 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-
-
-
-
 
 <a href="https://twitter.com/Kenduiwatt">
   <img align="left" alt="Vincent's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -35,7 +28,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Kenduiwat">
   <img align="left" alt="Vincent's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+-->
 
 <br/>
 <br/>
