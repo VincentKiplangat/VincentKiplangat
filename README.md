@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://twitter.com/MunavuMichael">
+<a href="https://twitter.com/Kenduiwatt">
   <img align="left" alt="Vincent's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/michael-munavu-78703a218/">
+<a href="https://www.linkedin.com/in/vincent-kiplangat-9510621bb/">
   <img align="left" alt="Vincent's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/MICHAELMUNAVU83">
+<a href="https://github.com/Kenduiwat">
   <img align="left" alt="Vincent's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -46,7 +46,10 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/R/R.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/julia/julia.png"></code>
+
 
 
 
@@ -64,8 +67,8 @@ Here are some ideas to get you started:
 
 ### Get in touch
 <p>
-  <a href="https://twitter.com/MunavuMichael"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/michael-munavu-78703a218/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
-  <a href="https://github.com/MICHAELMUNAVU83"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
+  <a href="https://twitter.com/Kenduiwatt"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/vincent-kiplangat-9510621bb/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
+  <a href="https://github.com/Kenduiwat"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   
 </p>
