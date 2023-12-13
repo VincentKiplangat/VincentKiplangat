@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 
 <br/>
+<div align="center">
 
-
-**Other Languages and Tools:**  
+**Other Languages and Tools:**  </div>
 | HTML | CSS | JS | Django | C | C++ | Arduino | Proteus | Multisim | Matlab | Eagle |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="Django" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" alt="C" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" alt="Arduino" height="40"> | <img src="proteus.jpg" alt="Proteus" height="40"> | <img src="MultisimNI.png" alt="MultisimNI" height="40"> | <img src="Matlab.jpg" alt="Matlab" height="40"> | <img src="Eagle.jpg" alt="Eagle" height="40"> |
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### :octocat: My stats
+### <div align="center">:octocat: My stats</div>
 
 
 
@@ -98,6 +98,6 @@ Here are some ideas to get you started:
 
 
 
-# testing
+
 
 
