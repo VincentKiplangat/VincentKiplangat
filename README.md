@@ -81,7 +81,6 @@ Here are some ideas to get you started:
 
 
 
-
 ### Get in touch
 <p>
   <a href="https://twitter.com/Kenduiwatt"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
