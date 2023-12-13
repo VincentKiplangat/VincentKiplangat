@@ -61,24 +61,18 @@ Here are some ideas to get you started:
 <br/>
 
 ### :octocat: My stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentKiplangat&langs_count=10&theme=vue-dark&hide_border=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue" alt="Used languages from Vincent's public repositories" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VincentKiplangat&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&show=reviews&rank_icon=percentile" alt="Loïc's GitHub stats"/>
-</p>
+  <img src="https://github-readme-streak-stats-tau-murex.vercel.app?user=VincentKiplangat&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="48%">
 
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentKiplangat&langs_count=10&theme=vue-dark&hide_border=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue" alt="Used languages from Vincent's public repositories" width="48%">
 
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VincentKiplangat&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&show=reviews&rank_icon=percentile" alt="Loïc's GitHub stats" width="100%">
+</div>
 
-
-
-<p align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats-tau-murex.vercel.app?user=VincentKiplangat&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/VincentKiplangat?tab=repositories)
-</p>
 
 
 
