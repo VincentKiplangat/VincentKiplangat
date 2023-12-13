@@ -72,6 +72,10 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
 ### Get in touch
 <p>
   <a href="https://twitter.com/Kenduiwatt"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
@@ -79,3 +83,26 @@ Here are some ideas to get you started:
   <a href="https://github.com/Kenduiwat"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   
 </p>
+
+
+
+
+
+# testing
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentKiplangat&langs_count=10&theme=dracula&layout=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue" alt="Used languages from his public repositories" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VincentKiplangat&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&show=reviews&rank_icon=percentile" alt="Loïc's GitHub stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VincentKiplangat&theme=dracula&fire=FBB741" alt="Loïc's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=VincentKiplangat&top_languages=true&stroke=whitesmoke&theme=default" alt="Loïc's CodeWars stats" />
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/VincentKiplangat?theme=dark&font=Lexend" alt="Loïc's LeetCode Stats" /> 
+</p>
+
