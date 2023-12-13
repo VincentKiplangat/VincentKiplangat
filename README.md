@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 **Other Languages and Tools:**  
 | HTML | CSS | JS | Arduino | Proteus | MultisimNI | Matlab | Eagle |
 |------|-----|----|---------|---------|------------|--------|-------|
-| <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" alt="Arduino" height="40"> | ![Proteus](proteus.jpg) | ![MultisimNI](multism.jpg) | ![Matlab](Matlab.jpg) | ![Eagle](Eagle.jpg) |
+| <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" alt="Arduino" height="40"> |![alt text](proteus.jpg) | ![alt text](MultismNI.png) | ![Matlab](Matlab.jpg) | ![Eagle](Eagle.jpg) |
 
 
 <br/>
