@@ -52,7 +52,13 @@ Here are some ideas to get you started:
 ### :octocat: My stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenduiwat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kenduiwat&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kenduiwat&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 
 
@@ -75,9 +81,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenduiwatt)](https://github.com/Kenduiwat/github-readme-stats)
 
 
 
