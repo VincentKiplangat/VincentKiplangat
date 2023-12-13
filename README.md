@@ -64,7 +64,8 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Streak](https://github-readme-streak-stats-tau-murex.vercel.app?user=Kenduiwat&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+[![GitHub Streak](https://github-readme-streak-stats-tau-murex.vercel.app?user=Kenduiwat&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Kenduiwat?tab=repositories)
+
 
 
 
