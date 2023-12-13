@@ -62,16 +62,13 @@ Here are some ideas to get you started:
 
 ### :octocat: My stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentKiplangat&langs_count=10&theme=dracula&layout=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue" alt="Used languages from Vincent's public repositories" />
-</p>
 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentKiplangat&langs_count=10&theme=vue-dark&hide_border=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue" alt="Used languages from Vincent's public repositories" width="48%" height="50%">
 
-  <img src="https://github-readme-streak-stats-tau-murex.vercel.app?user=VincentKiplangat&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="48%" height="50%" >
+
+  <img src="https://github-readme-streak-stats-tau-murex.vercel.app?user=VincentKiplangat&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%" height="50%" >
 
 
 </div>
