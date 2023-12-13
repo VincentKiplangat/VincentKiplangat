@@ -52,6 +52,28 @@ Here are some ideas to get you started:
 ### :octocat: My stats
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenduiwat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
