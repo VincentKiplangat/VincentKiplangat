@@ -61,6 +61,12 @@ Here are some ideas to get you started:
 <br/>
 
 ### :octocat: My stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=10&theme=dracula&layout=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue" alt="Used languages from his public repositories" />
+</p>
+
+
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentKiplangat&langs_count=10&theme=vue-dark&hide_border=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue" alt="Used languages from Vincent's public repositories" width="48%" height="50%">
