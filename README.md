@@ -1,5 +1,6 @@
-### Hi there 👋
-#### I'm Vincent Kiplangat, a dedicated Data Scientist passionate about uncovering insights from complex datasets. I'm here to share my expertise from data analysis to machine learning. Whether you're a data enthusiast, a business owner, or simply curious, I've got you covered. Let's dive into the world of data science together!
+## Hi there 👋
+#### I'm Vincent Kiplangat, an Electronic and   Computer Technologist
+#### I'm a dedicated Data Scientist passionate about uncovering insights from complex datasets. I'm here to share my expertise from data analysis to machine learning. Whether you're a data enthusiast, a business owner, or simply curious, I've got you covered. Let's dive into the world of data science together!
 #### Have that website idea in mind and want to implement it using Django, reach out, and we actualize it. Check out some of my best projects here.
 #### Have that automation idea, which automation problem do you want to solve? is it that car detection accident system, or blind mobility aid. I got you covered.
 
