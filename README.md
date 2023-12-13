@@ -34,14 +34,13 @@ Here are some ideas to get you started:
 <br/>
 
 **Major Languages and Tools:**  
- Python | Django |
+| Python | Django |
 |--------|--------|
-| ![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png) | ![Django](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png) |
+| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="20"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" height="20"> |
 
 | R | Julia |
 |---|------|
-| ![R](https://raw.githubusercontent.com/github/explore/master/topics/r/r.png) | ![Julia](https://raw.githubusercontent.com/github/explore/master/topics/julia/julia.png) |
-
+| <img src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" alt="R" height="20"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/julia/julia.png" alt="Julia" height="20"> |
 
 <br/>
 <br/>
