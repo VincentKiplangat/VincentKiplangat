@@ -1,5 +1,5 @@
-# Hi there 👋. <br/> I'm Vincent Kiplangat, 
-## Electronic and   Computer Technologists
+# <div align="center">Hi there 👋. <br/> I'm Vincent Kiplangat,</div>
+## <div align="center">Electronic and Computer Technologists</div>
 ######
 #### -I'm a dedicated Data Scientist passionate about uncovering insights from complex datasets. I'm here to share my expertise from data analysis to machine learning. Whether you're a data enthusiast, a business owner, or simply curious, I've got you covered. Let's dive into the world of data science together!
 #### -Have that website idea in mind and want to implement it using Django, reach out, and we actualize it. Check out some of my best projects here.
@@ -33,7 +33,11 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+<div align="center">
+
+
 **Major Languages and Tools:**  
+</div>
 | Jupyter | Python | SQL | R | Julia |
 |---------|--------|-----|---|-------|
 | <img src="jupyter.jpg" alt="jupyter" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="SQL" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" alt="R" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/julia/julia.png" alt="Julia" height="40"> |
@@ -84,9 +88,11 @@ Here are some ideas to get you started:
 
 
 
-
+<div align="center">
 
 ### Get in touch
+
+</div>
 <p>
   <a href="https://twitter.com/Kenduiwatt"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/vincent-kiplangat-9510621bb/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
