@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-**Major Languages and Tools:**  
-</div>
+**Major Languages and Tools:**  </div>
+
 | Jupyter | Python | SQL | R | Julia |
 |---------|--------|-----|---|-------|
 | <img src="jupyter.jpg" alt="jupyter" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="SQL" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" alt="R" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/julia/julia.png" alt="Julia" height="40"> |
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 ### Get in touch
 
-</div>
+
 <p>
   <a href="https://twitter.com/Kenduiwatt"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/vincent-kiplangat-9510621bb/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
   
 </p>
 
-
+</div>
 
 
 
