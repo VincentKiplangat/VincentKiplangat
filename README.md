@@ -1,6 +1,6 @@
-# <div align="center">Hi there 👋. <br/> I'm Vincent Kiplangat,</div>
+# <div align="center">Hi there 👋.</div>
 ![alt text](breadcrum.png)
-## <div align="center">Electronic and Computer Technologists</div>
+<!-- ## <div align="center">Electronic and Computer Technologists</div> -->
 ######
 #### -I'm a dedicated Data Scientist passionate about uncovering insights from complex datasets. I'm here to share my expertise from data analysis to machine learning. Whether you're a data enthusiast, a business owner, or simply curious, I've got you covered. Let's dive into the world of data science together!
 #### -Have that website idea in mind and want to implement it using Django, reach out, and we actualize it. Check out some of my best projects here.
